@@ -1,0 +1,6 @@
+checkpoints/
+logs/
+docs/
+data/*.npz
+data/vocabulary.json
+__pycache__/
